@@ -1,5 +1,10 @@
-# Deep Learning Course
-Welcome! Here we will upload the different tutorials for the Deep Learning course. 
+# Deep Learning Project
+Welcome! This repository contains my work for the Deep Learning (EE3-23) course of Imperial College London's Electrical & Electronic School of Engineering.
+
+## Deliverables
+ - ### Report
+ The main deliverable for this course was the composition of a report outlining the findings observed upon the completion of all the notebooks. The report summarizing those findings can be found [here]().
+
 We will use Python and [Jupyter Notebook](https://jupyter.org/), and [Keras](https://keras.io/) as the deep learning framework.
 Also, the tutorials use [Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb), which is a free Jupyter notebook environment that runs in the cloud. 
 
@@ -13,8 +18,6 @@ Each of the notebooks contains this image
 which when clicked takes you to the Colaboratory website. 
 
 Colaboratory provides free GPU, so you can modify part of the tutorials and retrain the models to test your modifications. Specifically, you get 12 hours of continuous access to a k80 GPU. When those 12 hours are over, you can connect to another machine. This [Notebook](https://colab.research.google.com/notebooks/gpu.ipynb#scrollTo=3IEVK-KFxi5Z) shows a comparison of the CPU vs GPU speed up in Colaboratory. The Hardware accelerator can be selected in Edit->Notebook Settings. There is also the option of using Tensor Processor Units (TPUs), but the tutorials will only use the GPU. Here is an [example notebook](https://colab.research.google.com/notebooks/tpu.ipynb) using TPUs.   
-
-We will update the repository during the course with new tutorials.
 
 ## Links to the notebooks
 Sometimes the notebooks do not render correctly in GitHub. You can access directly the notebook in the Colab environment using the following links.
