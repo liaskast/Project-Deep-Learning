@@ -3,7 +3,7 @@ Welcome! This repository contains my work for the Deep Learning (EE3-23) course 
 
 ## Deliverables
  - ### Report
- The main deliverable for this course was the composition of a report outlining the findings observed upon the completion of all the notebooks. The report summarizing those findings can be found [here]().
+ The main deliverable for this course was the composition of a report outlining the findings observed upon the completion of all the notebooks. The report summarizing those findings can be found [here](Deep_Learning___Interim_Report.pdf).
 
 We will use Python and [Jupyter Notebook](https://jupyter.org/), and [Keras](https://keras.io/) as the deep learning framework.
 Also, the tutorials use [Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb), which is a free Jupyter notebook environment that runs in the cloud. 
